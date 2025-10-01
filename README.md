@@ -4,7 +4,7 @@ A Python-based tool for medical image enhancement and edge detection, supporting
 
 ## Results
 
-![Pipeline](results/complete_pipeline.png)
+![Pipeline](complete_pipeline.png)
 
 *Complete processing pipeline showing normalization, denoising, and edge detection*
 
@@ -22,4 +22,5 @@ Python • OpenCV • NumPy • Matplotlib • pydicom
 ## Usage
 ```bash
 pip install opencv-python numpy matplotlib pydicom
+
 python medical_image_pipeline.py your_image.jpg
